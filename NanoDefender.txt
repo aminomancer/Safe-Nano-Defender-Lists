@@ -3,7 +3,7 @@
 ! Expires: 10000 days
 ! Cached: Tue, 25 Aug 2020 02:52:14 GMT
 ! License: See source for license and credits
-! Source: https://github.com/aminomancer/Safe-Nano-Defender-Lists
+! Source: https://github.com/aminomancer/Safe-Nano-Defender-Lists/tree/main/NanoDefender.txt
 ! This file is a compiled binary, do not modify
 ! All modifications will be overwritten on the next build
 |https://legacy.hugoxu.com/uBlockProtector/Solutions/Blocked.php$important
